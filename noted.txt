@@ -1,0 +1,25 @@
+lib/
+├── controllers/
+│   ├── login_controller.dart
+│   ├── home_controller.dart
+│   ├── setting_controller.dart
+│   └── absensi_controller.dart
+├── models/
+│   └── user_model.dart
+├── pages/
+│   ├── login_page.dart
+│   ├── home_page.dart
+│   ├── setting_page.dart
+│   └── absensi_page.dart
+├── routes/
+│   └── app_routes.dart
+├── services/
+│   └── api_service.dart
+├── utils/
+│   └── constants.dart
+├── main.dart
+└── bindings/
+    ├── login_binding.dart
+    ├── home_binding.dart
+    ├── setting_binding.dart
+    └── absensi_binding.dart
